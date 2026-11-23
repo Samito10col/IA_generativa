@@ -1,0 +1,22 @@
+# Instalar PRIMERO PyTorch para CPU (o la versión CUDA si tiene GPU NVIDIA):
+#   pip install torch==2.15.0 --index-url https://download.pytorch.org/whl/cpu
+# Luego:
+#   pip install -r requirements.txt
+#
+# Versiones probadas en Windows 11, Python 3.11.9
+diffusers==0.43.0
+transformers==5.24.0
+accelerate==1.16.0
+peft==0.22.0
+safetensors==0.8.0
+huggingface_hub==2.4.0
+gradio==6.32.0
+fastapi==0.165.0
+uvicorn==0.54.0
+ollama==0.6.3
+piper-tts==1.8.0
+soundfile==0.14.0
+scipy==1.17.1
+numpy==2.4.6
+psutil==7.2.2
+Pillow==13.0.0
