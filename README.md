@@ -2,8 +2,8 @@
 
 Proyecto integrador de la Electiva de Inteligencia Artificial Generativa, Ingeniería de Sistemas, Universidad Santo Tomás, Seccional Tunja.
 
-**Integrantes:** Samuel Nicolás Ávila Veloza · [Nombre integrante 2] · [Nombre integrante 3]  
-**Documento técnico:** [enlace al PDF] · **Video de demostración:** [enlace al video]
+**Integrantes:** Samuel Nicolás Ávila Veloza
+**Video de demostración:** [enlace al video]
 
 A partir de una **idea** y un **tipo de historia**, la aplicación genera un cuento de **exactamente 5 escenas**. Cada escena tiene texto, una ilustración, narración con voz sintética y ambientación sonora. **Todo se ejecuta en el computador local**: no usa APIs de pago ni servicios remotos.
 
